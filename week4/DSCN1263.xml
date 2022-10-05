@@ -1,0 +1,26 @@
+<annotation>
+	<folder>week4</folder>
+	<filename>DSCN1263.JPG</filename>
+	<path>C:\Users\youti\Desktop\train\week4\DSCN1263.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3371</width>
+		<height>1603</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>week4</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>1</ymin>
+			<xmax>3315</xmax>
+			<ymax>1380</ymax>
+		</bndbox>
+	</object>
+</annotation>
