@@ -1,0 +1,26 @@
+<annotation>
+	<folder>week3</folder>
+	<filename>1209.1.JPG</filename>
+	<path>C:\Users\youti\Desktop\train\week3\1209.1.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>week3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>1196</ymin>
+			<xmax>3705</xmax>
+			<ymax>2480</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>week4</folder>
+	<filename>LINE_ALBUM_20211210_211210_9.jpg</filename>
+	<path>C:\Users\youti\Desktop\train\week4\LINE_ALBUM_20211210_211210_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1164</width>
+		<height>857</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>week4</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>16</ymin>
+			<xmax>1047</xmax>
+			<ymax>857</ymax>
+		</bndbox>
+	</object>
+</annotation>
